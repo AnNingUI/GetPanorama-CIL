@@ -19,7 +19,7 @@
 # 插件虚拟环境
 python -m venv .venv
 
-# 进入虚拟化
+# 进入虚拟环境
 ./.venv/Scripts/activate
 
 # 开始构建 Linux or MacOs
